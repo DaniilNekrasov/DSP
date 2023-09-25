@@ -1,0 +1,11 @@
+D:\4course\COS\COS1\COS1\bin\Debug\COS1.exe.config
+D:\4course\COS\COS1\COS1\bin\Debug\COS1.exe
+D:\4course\COS\COS1\COS1\bin\Debug\COS1.pdb
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.csproj.AssemblyReference.cache
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.csproj.SuggestedBindingRedirects.cache
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.Form1.resources
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.Properties.Resources.resources
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.csproj.GenerateResource.cache
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.csproj.CoreCompileInputs.cache
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.exe
+D:\4course\COS\COS1\COS1\obj\Debug\COS1.pdb
